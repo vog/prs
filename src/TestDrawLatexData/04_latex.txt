@@ -1,0 +1,8 @@
+\begin{Schedule}
+{
+\dN & \dN & \dP & \dR & \dN & \dN \\
+\dN & \dF & \dN & \dP & \dR & \dN \\
+\dF & \dN & \dF & \dN & \dP & \dR \\
+\dC & \dC & \dC & \dC & \dN & \dN \\
+};
+\end{Schedule}

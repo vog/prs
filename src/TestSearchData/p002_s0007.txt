@@ -1,0 +1,17 @@
+p =2 s =7
+p'=0 s'=3
+
+1 predecessors:
+
+O (5)
+
+1 predecessors:
+
+OO (6)
+
+1 predecessors:
+
+OOO (7)
+
+p =2 s =7 l=7
+p'=0 s'=3

@@ -1,0 +1,25 @@
+p =2 s =9
+p'=0 s'=5
+
+1 predecessors:
+
+O (5)
+
+1 predecessors:
+
+OO (6)
+
+1 predecessors:
+
+OOO (7)
+
+1 predecessors:
+
+OOOO (8)
+
+1 predecessors:
+
+OOOOO (9)
+
+p =2 s =9 l=9
+p'=0 s'=5

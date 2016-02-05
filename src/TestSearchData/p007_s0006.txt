@@ -1,0 +1,61 @@
+p =7 s =6
+p'=5 s'=2
+
+1 predecessors:
+
+. (5)
+
+2 predecessors:
+
+.O (6)
+O. (6)
+
+2 predecessors:
+
+..O (7)
+.O. (7)
+
+3 predecessors:
+
+..O. (8)
+.O.O (8)
+O..O (8)
+
+3 predecessors:
+
+...O. (9)
+..O.O (9)
+.O..O (9)
+
+6 predecessors:
+
+...O.O (10)
+...OO. (10)
+..O..O (10)
+..O.O. (10)
+.O..O. (10)
+O...O. (10)
+
+6 predecessors:
+
+....O.O (11)
+....OO. (11)
+...O..O (11)
+...O.O. (11)
+..O..O. (11)
+.O...O. (11)
+
+4 predecessors:
+
+....O..O (12)
+....O.O. (12)
+...O..O. (12)
+..O...O. (12)
+
+2 predecessors:
+
+....O..O. (13)
+...O...O. (13)
+
+p =7 s =6 l=13
+p'=5 s'=2

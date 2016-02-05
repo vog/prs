@@ -1,0 +1,13 @@
+p =2 s =6
+p'=0 s'=2
+
+1 predecessors:
+
+O (5)
+
+1 predecessors:
+
+OO (6)
+
+p =2 s =6 l=6
+p'=0 s'=2

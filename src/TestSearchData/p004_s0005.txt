@@ -1,0 +1,23 @@
+p =4 s =5
+p'=2 s'=1
+
+1 predecessors:
+
+. (5)
+
+2 predecessors:
+
+.O (6)
+O. (6)
+
+2 predecessors:
+
+..O (7)
+.O. (7)
+
+1 predecessors:
+
+..O. (8)
+
+p =4 s =5 l=8
+p'=2 s'=1

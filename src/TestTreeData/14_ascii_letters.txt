@@ -1,0 +1,10 @@
+CF
+C.F
+CF.F
+C.F.F
+CF.F.P
+C.F.PR
+CF.PR
+C.PR
+.PR
+.R

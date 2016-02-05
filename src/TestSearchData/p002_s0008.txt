@@ -1,0 +1,21 @@
+p =2 s =8
+p'=0 s'=4
+
+1 predecessors:
+
+O (5)
+
+1 predecessors:
+
+OO (6)
+
+1 predecessors:
+
+OOO (7)
+
+1 predecessors:
+
+OOOO (8)
+
+p =2 s =8 l=8
+p'=0 s'=4
